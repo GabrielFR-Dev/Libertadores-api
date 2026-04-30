@@ -79,7 +79,6 @@ http://localhost:9000
 
 * [ ] Rota GET /campeoes
 * [ ] Rota GET /vices
-* [ ] Rota GET /finais
 * [ ] Filtros por ano
 * [ ] Organização em arquitetura MVC
 
