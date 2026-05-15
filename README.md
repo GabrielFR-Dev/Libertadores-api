@@ -4,7 +4,7 @@ API REST desenvolvida em Node.js para consulta de dados da Copa Libertadores.
 
 ## 📌 Status do projeto
 
-🚧 Em desenvolvimento
+🚧 CONCLUIDO
 
 Atualmente o projeto realiza a conexão com o banco de dados MySQL.
 As próximas etapas incluem a criação de rotas para consulta dos dados.
